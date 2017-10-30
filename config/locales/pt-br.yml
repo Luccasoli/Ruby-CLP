@@ -1,0 +1,11 @@
+"pt-BR":
+  activerecord:
+    models:
+      client: "Cliente"
+    attributes:
+      client:
+        nome: "Nome"
+        cpf: "CPF"
+        telefone: "Telefone"
+        email: "E-mail"
+        observacao: "Observação"
